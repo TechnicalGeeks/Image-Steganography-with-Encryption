@@ -129,8 +129,8 @@ dmypy.json
 .pyre/
 
 # Unecessary files
-decrpyted.txt
-encrypted.txt
-encrypted.bmp
-Original.bmp
+/decrpyted.txt
+/encrypted.txt
+/encrypted.bmp
+/Original.bmp
 
