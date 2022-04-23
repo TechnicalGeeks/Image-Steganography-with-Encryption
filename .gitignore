@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Unecessary files
+decrpyted.txt
+encrypted.txt
+encrypted.bmp
+Original.bmp
+
